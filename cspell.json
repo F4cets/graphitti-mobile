@@ -1,0 +1,24 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": [
+      "solana",
+      "firestore",
+      "Graphitti",
+      "worklets",
+      "Pyth",
+      "lamports",
+      "F116A2",
+      "30F00E",
+      "FF0400",
+      "FFD700",
+      "F472B6",
+      "EC4899"
+    ],
+    "ignorePaths": [
+      "node_modules/**",
+      ".git/**",
+      "build/**",
+      ".gradle/**"
+    ]
+  }

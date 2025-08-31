@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905660197665",
+    "project_id": "graphitti-162cd",
+    "storage_bucket": "graphitti-162cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905660197665:android:8b6a981d6ed78b3659ac60",
+        "android_client_info": {
+          "package_name": "com.graphittimobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASub0YDIlORnlEYpiZcwbb5yUKoD5dSy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

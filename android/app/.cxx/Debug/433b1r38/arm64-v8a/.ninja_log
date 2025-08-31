@@ -1,0 +1,11 @@
+# ninja log v5
+2	79	0	/Users/seanswork/graphitti-mobile/GraphittiMobile/android/app/.cxx/Debug/433b1r38/arm64-v8a/CMakeFiles/cmake.verify_globs	c232fe664fd0c71c
+5	5274	1756320744710518580	rnworklets_autolinked_build/CMakeFiles/react_codegen_rnworklets.dir/react/renderer/components/rnworklets/States.cpp.o	67a92e607b348804
+2	5562	1756320745000236020	rnworklets_autolinked_build/CMakeFiles/react_codegen_rnworklets.dir/react/renderer/components/rnworklets/EventEmitters.cpp.o	207c5eb751b5c25b
+8	6495	1756320745926428451	rnworklets_autolinked_build/CMakeFiles/react_codegen_rnworklets.dir/react/renderer/components/rnworklets/rnworkletsJSI-generated.cpp.o	a14e18eb7ac961c5
+13	6715	1756320746145600067	rnworklets_autolinked_build/CMakeFiles/react_codegen_rnworklets.dir/rnworklets-generated.cpp.o	6ed4b1973a900e7f
+3	6721	1756320746154458989	rnworklets_autolinked_build/CMakeFiles/react_codegen_rnworklets.dir/react/renderer/components/rnworklets/ShadowNodes.cpp.o	65767450ed099708
+1	7188	1756320746619342007	rnworklets_autolinked_build/CMakeFiles/react_codegen_rnworklets.dir/react/renderer/components/rnworklets/ComponentDescriptors.cpp.o	66852989442fe295
+16	7210	1756320746644946345	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ComponentDescriptors.cpp.o	e677579543de7ed3
+16	7309	1756320746741158998	CMakeFiles/appmodules.dir/OnLoad.cpp.o	de2972ffe48496c4
+5280	8031	1756320747472180254	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/EventEmitters.cpp.o	bbc6c3acbd4817e6

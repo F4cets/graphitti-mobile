@@ -1,11 +1,11 @@
 buildscript {
     ext {
-        buildToolsVersion = "36.0.0"
+        buildToolsVersion = "35.0.0"  // Updated to default for AGP
         minSdkVersion = 24
-        compileSdkVersion = 36
-        targetSdkVersion = 36
-        ndkVersion = "27.1.12297006"
-        kotlinVersion = "2.1.20"
+        compileSdkVersion = 34
+        targetSdkVersion = 34
+        ndkVersion = "27.0.12077973"
+        kotlinVersion = "1.8.0"  // Downgraded to resolve override error
     }
     repositories {
         google()
@@ -15,7 +15,14 @@ buildscript {
         classpath("com.android.tools.build:gradle")
         classpath("com.facebook.react:react-native-gradle-plugin")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
+        classpath("com.google.gms:google-services:4.4.2")  // Restored for Firebase
     }
 }
 
 apply plugin: "com.facebook.react.rootproject"
+
+allprojects {
+    repositories {
+        maven { url 'https://maven.google.com' }
+    }
+}
